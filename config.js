@@ -56,10 +56,10 @@ global.APIKeys = {
 // Other
 
 
-global.owner = [ '6281276698054' ]
+global.owner = [ '6285754180729' ]
 
 
-global.premium = ['6281276698054']
+global.premium = ['6285754180729']
 
 
 global.packname = 'Sanzy Gemoyyy'
