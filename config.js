@@ -1,7 +1,7 @@
 /**
 
 
-   * Create By Dika Ardnt.
+   * Create By Fahzz Bot.
 
 
    * Contact Me on wa.me/6285754180729
